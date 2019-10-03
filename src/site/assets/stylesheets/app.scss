@@ -5,9 +5,14 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Muli', sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  grid-gap: 20px;
 }
 
 h1 {
+
   margin-top: 200px;
   margin-bottom: 100px;
   font-size: 60px;
