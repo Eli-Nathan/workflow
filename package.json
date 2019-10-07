@@ -1,4 +1,5 @@
 {
+  "author" "Sausage and Mincey",
   "name": "workflow-testing",
   "version": "1.0.0",
   "main": "index.js",
